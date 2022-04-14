@@ -1,0 +1,1 @@
+# genetic_algorithem_Best_EMA
